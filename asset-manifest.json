@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/First-Redux/static/css/main.3aec7ebe.css",
+    "main.js": "/First-Redux/static/js/main.e85ba7c4.js",
+    "static/media/mario-bg.png": "/First-Redux/static/media/mario-bg.c9fe338ec386dcd39ce0.png",
+    "index.html": "/First-Redux/index.html",
+    "main.3aec7ebe.css.map": "/First-Redux/static/css/main.3aec7ebe.css.map",
+    "main.e85ba7c4.js.map": "/First-Redux/static/js/main.e85ba7c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aec7ebe.css",
+    "static/js/main.e85ba7c4.js"
+  ]
+}
